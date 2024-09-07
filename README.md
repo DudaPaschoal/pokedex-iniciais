@@ -5,6 +5,9 @@
 
 Bem-vindo à **Pokedex Iniciais**, onde você pode buscar informações sobre os Pokémons iniciais de todas as gerações! Aqui você pode pesquisar pelo nome ou tipo do Pokémon e obter todas as informações que você precisa — com direito a imagens e evoluções. 👀
 
+## 🔮 Como vizualizar:
+Acesse o site por esse link: https://pokedex-iniciais-1.vercel.app/ 🎀
+
 ## 🌟 Funcionalidades
 
 - 🔍 **Pesquisa Dinâmica**: Digite o nome ou tipo de qualquer Pokémon e veja as informações aparecerem magicamente!
@@ -20,7 +23,7 @@ Bem-vindo à **Pokedex Iniciais**, onde você pode buscar informações sobre os
    - Nome do Pokémon
    - Evoluções
    - Descrição do Pokémon
-   - Personalidade (Sim! Eles têm sentimentos!!)
+   - Personalidade (Sim! Eles têm sentimentos!! 😱)
    - Imagens da sua jornada de evolução
 
 Se não encontrar o Pokémon, você receberá uma mensagem simpática dizendo que nada foi encontrado. 😢
