@@ -1,13 +1,10 @@
-
-function pesquisar() {
-    
-    document.getElementById("campo-pesquisa").addEventListener("keypress", function(event) {
+ document.getElementById("campo-pesquisa").addEventListener("keypress", function(event) {
             if (event.key === "Enter") {
                 event.preventDefault(); 
                 pesquisar(); 
             }
         });
-        
+function pesquisar() {
    
     let section = document.getElementById("resultados-pesquisa");
 
