@@ -3,7 +3,7 @@
 
 # 🎮 Pokedex Iniciais: Os Primeiros Companheiros de Jornada 🐾
 
-Bem-vindo à **Pokedex Iniciais**, onde você pode buscar informações sobre os Pokémons inciais de todas as gerações! Aqui você pode pesquisar pelo nome ou tipo do Pokémon e obter todas as informações que você precisa — com direito a imagens e evoluções. 👀
+Bem-vindo à **Pokedex Iniciais**, onde você pode buscar informações sobre os Pokémons iniciais de todas as gerações! Aqui você pode pesquisar pelo nome ou tipo do Pokémon e obter todas as informações que você precisa — com direito a imagens e evoluções. 👀
 
 ## 🌟 Funcionalidades
 
